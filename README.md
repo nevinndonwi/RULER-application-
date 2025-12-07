@@ -23,7 +23,7 @@ RULER - A component measuring approach to the sperm measuring problem (make meas
 
 - You can load an image (jpeg, png, etc, anything supported by the application)
 
-While in auto-measure mode:
+<b>While in auto-measure mode:<b>
 - measure the different components of the sperm.
 - invert the image to test if that improves the algorithm's ability to measure or to make hand tracing easier
 - select and adjust which found components are included in the measurement.
@@ -32,7 +32,7 @@ While in auto-measure mode:
 - Save images of the measurement results and/or the sperm highlighting.
 - Return the length of the sperm in pixels and in millimeters. 
 
-While in manual-threshold adjustment/ component identification mode:
+<b>While in manual-threshold adjustment/ component identification mode:<b>
 - Select different components and designate them as different colors in order to get the measurement of different components to count as the same sperm or different sperm. 
 - measure the different components of the sperm.
 - invert the image to test if that improves component identificatiom
