@@ -21,6 +21,18 @@ RULER - A component measuring approach to the sperm measuring problem (make meas
 
 <b>Current Features: </b>
 
+- You can load an image (jpeg, png, etc, anything supported by the application)
+
+While in auto-measure mode:
+- measure the different components of the sperm.
+- invert the image to test if that improves the algorithm's ability to measure or to make hand tracing easier
+- select and adjust which found components are included in the measurement.
+- draw lines or pixels in order to fill gaps or holes or connect sperm parts that the algorithm did not catch.
+- move around within the image (up, down, left, right) and zoom in/out
+- Save images of the measurement results and/or the sperm highlighting.
+- Return the length of the sperm in pixels and in millimeters. 
+
+While in manual-threshold adjustment/ component identification mode:
 
 
 
