@@ -1,0 +1,28 @@
+,,"Category photo (E = Easy, M = Medium, H = Hard)",Photo file,RULER analysis (in millimeters),Expected (in millimeters),Relative error percentage ((program_result - expected) / expected),Wall clock time of using the application (in minutes),Additonal notes (regarding measuring the image)
+,,E,24708.1_1,1926,1951,1.281394157,0.5,the program's automeasure was able to get a lot of the components enabling quick selection and easier measurement 
+,,E,24708.1_2,1722.02,1787,3.636261891,0.5,the program's automeasure was able to get a lot of the components enabling quick selection and easier measurement 
+Mean error percentage (easy) ,2.890618459,E,24708.1_3,1718.95,1786,3.754199328,2,the program's automeasure was able to get some of the sperm but a good amount of hand tracing features had to be used at some sperm loops
+Mean error percentage (medium),18.34486212,M,24708.1_4,1647.05,1681,2.019631172,0.5,the program's automeasure was able to get a lot of the components enabling quick selection and easier measurement 
+Mean error percentage (hard) ,27.53813443,M,24708.1_5,1998.66,1952,2.390368852,0.5,the program's automeasure was able to get a lot of the components enabling quick selection and easier measurement 
+,,M,24708.1_6,2587.55,1961,31.95053544,5,"the program' s automeasure was not able to get that much, significant  hand tracing features was needed for this image"
+,,M,WT.C.1,1357.79,1090,24.56788991,2.5,"using the threshold mode toggle and then selecting components from there got most of the sperm measurement, but hand tracing was needed"
+,,M,WT.C.2,2415.8,1847,30.79588522,2.5,"using the threshold mode toggle and then selecting components from there got most of the sperm measurement, but hand tracing was needed"
+,,H,472.1A.1_1,2047.92,1421.724,44.04483571,5,I tried measuring at first but my automeasuring algorithm could not see the sperm so I used the threshold mode and had to toggle it to get different pieces
+,,H,472.1A.1_2,1175.48,1721.22,31.70658022,5,I tried measuring at first but my automeasuring algorithm could not see the sperm so I used the threshold mode and had to toggle it to get different pieces
+,,H,28369.2.6_2,1895,1798.116,5.388083972,3,the measuring algorithm took longer this time but the program's automeasure was able to get a lot of the components enabling quicker selection and easier measurement 
+,,H,28369.2.6_3,1923.58,1820.409,5.667462642,3,the measuring algorithm took longer this time but the program's automeasure was able to get a lot of the components enabling quicker selection and easier measurement 
+,,H,472.1A.1_5,1247.1,1827.506,31.75945797,5,I tried measuring at first but my automeasuring algorithm could not see the sperm so I used the threshold mode and had to toggle it to get different pieces
+,,H,472.1A.1_4,1004,1836.393,45.32760689,5,I tried measuring at first but my automeasuring algorithm could not see the sperm so I used the threshold mode and had to toggle it to get different pieces
+,,H,42568.b4.7,1603.11,1840.172,12.8826001,4,the program's automeasure was able to get some of the sperm but a good amount of hand tracing features had to be used at some sperm loops
+,,H,LHM.1B.3_2&3,1000,1847,45.85814835,7,I tried measuring at first but my automeasuring algorithm could not see the sperm so I used the threshold mode and had to toggle it to get different pieces
+,,H,LHM.1B.3_7,2029.11,1849.383,9.718214129,7,I tried measuring at first but my automeasuring algorithm could not see the sperm so I used the threshold mode and had to toggle it to get different pieces
+,,H,472.1A.1_3,1023.13,1849.996,44.6955561,7,I tried measuring at first but my automeasuring algorithm could not see the sperm so I used the threshold mode and had to toggle it to get different pieces
+,,H,472.1B.1_5&6,2759.43,1870.82,47.49842315,7,"this one was rough, I tried all measuring techniques but the thresholds were rougher to hand trace and pick components around "
+,,H,53387.1B.2_7&8,1984.56,1873.806,5.910643898,5,I tried measuring at first but my automeasuring algorithm could not see the sperm so I used the threshold mode and had to toggle it to get different pieces
+,,,,,,,,
+,,,,,,,,Additional notes:
+,,,,,,,,More time means more program features to see if I could yeild a better result with other tools.
+,,,,,,,," I would try my automeasure algorithm, then if that seemed too timeconsuming then I would resort to threshold mode and getting the largest components and if those would ever fail then I'd hand trace with the features available. "
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,Windows has a simpler ui so if you want the real experience then run the script or run the linux elf exe

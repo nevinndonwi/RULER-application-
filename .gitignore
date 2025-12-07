@@ -1,0 +1,6 @@
+# Ignore the entire Windows executable folder
+'RULER - Windows executable (make sure to run in same directory as DLL)/'
+RULER - Linux executable/FINAL_BIO_PROJECT_LINUX.zip
+RULER - Linux executable/
+RULER - Windows executable (make sure to run in same directory as DLL)/
+*.zip
