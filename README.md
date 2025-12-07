@@ -12,7 +12,12 @@ RULER - A component measuring approach to the sperm measuring problem (make meas
 
 * If you have to use the windows exe file, then it will still work for being able to do the measuring functionalities, Due to limitations in executable file generation for windows exes and the fact I used the cv2 dependency for my UI, it will work but it will not be as robust as the linux version. 
 
-* If you prefer to clone the repository, then you can look at requirements.txt to see all of the dependencies required for this application and attempt to build and run them all yourself as well. The only one that may be annoying to figure out is cv2 but everything else should be runnable unless you run into additional issues. You can try pip install -r dependencies.txt and then run the script with:  <code>python3 FINAL_BIO_PROJECT.py</code>
+* If you prefer to clone the repository, then you can look at requirements.txt to see all of the dependencies required for this application and attempt to build and run them all yourself as well. The only one that may be annoying to figure out is cv2 but everything else should be runnable unless you run into additional issues. You can try
+* <code> pip install -r dependencies.txt </code>
+
+and then run the script with:
+
+*  <code>python3 FINAL_BIO_PROJECT.py</code>
 
 <b>Application Usage: </b>
 
