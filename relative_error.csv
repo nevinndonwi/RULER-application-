@@ -6,9 +6,9 @@ Mean error percentage (medium),18.34486212,M,24708.1_4,1647.05,1681,2.019631172,
 Mean error percentage (hard) ,27.53813443,M,24708.1_5,1998.66,1952,2.390368852,0.5,the program's automeasure was able to get a lot of the components enabling quick selection and easier measurement 
 ,,M,24708.1_6,2587.55,1961,31.95053544,5,"the program' s automeasure was not able to get that much, significant  hand tracing features was needed for this image"
 ,,M,WT.C.1,1357.79,1090,24.56788991,2.5,"using the threshold mode toggle and then selecting components from there got most of the sperm measurement, but hand tracing was needed"
-,,M,WT.C.2,2415.8,1847,30.79588522,2.5,"using the threshold mode toggle and then selecting components from there got most of the sperm measurement, but hand tracing was needed"
-,,H,472.1A.1_1,2047.92,1421.724,44.04483571,5,I tried measuring at first but my automeasuring algorithm could not see the sperm so I used the threshold mode and had to toggle it to get different pieces
-,,H,472.1A.1_2,1175.48,1721.22,31.70658022,5,I tried measuring at first but my automeasuring algorithm could not see the sperm so I used the threshold mode and had to toggle it to get different pieces
+Mean wall clock time taken in minutes (easy) ,1,M,WT.C.2,2415.8,1847,30.79588522,2.5,"using the threshold mode toggle and then selecting components from there got most of the sperm measurement, but hand tracing was needed"
+Mean wall clock time taken in minutes (medium) ,2.2,H,472.1A.1_1,2047.92,1421.724,44.04483571,5,I tried measuring at first but my automeasuring algorithm could not see the sperm so I used the threshold mode and had to toggle it to get different pieces
+Mean wall clock time taken in minutes (hard) ,5.25,H,472.1A.1_2,1175.48,1721.22,31.70658022,5,I tried measuring at first but my automeasuring algorithm could not see the sperm so I used the threshold mode and had to toggle it to get different pieces
 ,,H,28369.2.6_2,1895,1798.116,5.388083972,3,the measuring algorithm took longer this time but the program's automeasure was able to get a lot of the components enabling quicker selection and easier measurement 
 ,,H,28369.2.6_3,1923.58,1820.409,5.667462642,3,the measuring algorithm took longer this time but the program's automeasure was able to get a lot of the components enabling quicker selection and easier measurement 
 ,,H,472.1A.1_5,1247.1,1827.506,31.75945797,5,I tried measuring at first but my automeasuring algorithm could not see the sperm so I used the threshold mode and had to toggle it to get different pieces
