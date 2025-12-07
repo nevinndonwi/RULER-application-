@@ -33,6 +33,15 @@ While in auto-measure mode:
 - Return the length of the sperm in pixels and in millimeters. 
 
 While in manual-threshold adjustment/ component identification mode:
+- Select different components and designate them as different colors in order to get the measurement of different components to count as the same sperm or different sperm. 
+- measure the different components of the sperm.
+- invert the image to test if that improves component identificatiom
+- select and adjust which found components are included in the measurement.
+- draw lines or pixels in order to fill gaps or holes or connect sperm parts that the algorithm did not catch.
+- move around within the image (up, down, left, right) and zoom in/out
+- Save images of the measurement results and/or the sperm highlighting.
+- Return the length of the sperm in millimeters.
+- Save the summary to csv or save the images for future consideration.
 
 
 
