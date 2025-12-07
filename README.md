@@ -49,6 +49,7 @@ and then run the script with:
 - Save the summary to csv or save the images for future consideration.
 
 
+Have fun in your project exploration!
 
 
 
